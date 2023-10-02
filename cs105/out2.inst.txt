@@ -1,0 +1,6 @@
+Size of array (1 or greater)? Integer to add at [0]? Integer to add at [1]? Integer to add at [2]? Array created.
+
+Slice start index (inclusive)? Slice end index (exclusive)? Here's your sice: {10, 20, 30}
+
+Again (Y/N)? Bye!
+

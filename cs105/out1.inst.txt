@@ -1,0 +1,12 @@
+Size of array (1 or greater)? Integer to add at [0]? Integer to add at [1]? Integer to add at [2]? Integer to add at [3]? Integer to add at [4]? Integer to add at [5]? Integer to add at [6]? Integer to add at [7]? Integer to add at [8]? Integer to add at [9]? Array created.
+
+Slice start index (inclusive)? Slice end index (exclusive)? Here's your sice: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+Again (Y/N)? Slice start index (inclusive)? Slice end index (exclusive)? Here's your sice: {6, 7, 8, 9, 10}
+
+Again (Y/N)? Slice start index (inclusive)? Slice end index (exclusive)? Here's your sice: {1}
+
+Again (Y/N)? Slice start index (inclusive)? Slice end index (exclusive)? Here's your sice: {10}
+
+Again (Y/N)? Bye!
+

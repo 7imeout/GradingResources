@@ -1,0 +1,5 @@
+# Don't want to reveal the cases themselves just yet.
+**/*.sh
+
+# macOS filesystem.
+**/.DS_Store
